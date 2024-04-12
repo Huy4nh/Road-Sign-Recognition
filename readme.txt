@@ -1,0 +1,1 @@
+- với thư mục have chứa mô hình đã train sẽ để trực tiếp lên drive không tạo thư mục chứa nếu cần chạy predict mà không cần train lại.
